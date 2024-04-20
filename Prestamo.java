@@ -5,6 +5,7 @@ public class Prestamo {
     private String nombreUsuario;
     private LocalDate fechaPrestamo;
     private LocalDate fechaDevolucion;
+    /*Integrantes:Yeison Rico ,Diara Rodriguez */
 
     public Prestamo(String tituloLibro, String nombreUsuario, LocalDate fechaPrestamo, LocalDate fechaDevolucion) {
         this.tituloLibro = tituloLibro;
